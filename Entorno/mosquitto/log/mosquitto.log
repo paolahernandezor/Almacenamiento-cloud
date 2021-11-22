@@ -1,0 +1,864 @@
+1626303627: mosquitto version 2.0.11 starting
+1626303627: Config loaded from /mosquitto/config/mosquitto.conf.
+1626303627: Opening ipv4 listen socket on port 1883.
+1626303627: Error: Address not available
+1626303632: mosquitto version 2.0.11 starting
+1626303632: Config loaded from /mosquitto/config/mosquitto.conf.
+1626303632: Opening ipv4 listen socket on port 1883.
+1626303632: Error: Address not available
+1626303645: mosquitto version 2.0.11 starting
+1626303645: Config loaded from /mosquitto/config/mosquitto.conf.
+1626303645: Opening ipv4 listen socket on port 1883.
+1626303645: Error: Address not available
+1626303655: mosquitto version 2.0.11 starting
+1626303655: Config loaded from /mosquitto/config/mosquitto.conf.
+1626303655: Opening ipv4 listen socket on port 1883.
+1626303655: Error: Address not available
+1626303716: mosquitto version 2.0.11 starting
+1626303716: Config loaded from /mosquitto/config/mosquitto.conf.
+1626303716: Opening ipv4 listen socket on port 1883.
+1626303716: Error: Address not available
+1626303773: mosquitto version 2.0.11 starting
+1626303773: Config loaded from /mosquitto/config/mosquitto.conf.
+1626303773: Opening ipv4 listen socket on port 1883.
+1626303773: Error: Address not available
+1626304332: mosquitto version 2.0.11 starting
+1626304332: Config loaded from /mosquitto/config/mosquitto.conf.
+1626304332: Opening ipv4 listen socket on port 1883.
+1626304332: Error: Address not available
+1626304397: mosquitto version 2.0.11 starting
+1626304397: Config loaded from /mosquitto/config/mosquitto.conf.
+1626304397: Opening ipv4 listen socket on port 1883.
+1626304397: Error: Address not available
+1626304406: mosquitto version 2.0.11 starting
+1626304406: Config loaded from /mosquitto/config/mosquitto.conf.
+1626304406: Opening ipv4 listen socket on port 1883.
+1626304406: Error: Address not available
+1626304485: mosquitto version 2.0.11 starting
+1626304485: Config loaded from /mosquitto/config/mosquitto.conf.
+1626304485: Opening ipv4 listen socket on port 1883.
+1626304485: Error: Address not available
+1626304535: mosquitto version 2.0.11 starting
+1626304535: Config loaded from /mosquitto/config/mosquitto.conf.
+1626304535: Opening ipv4 listen socket on port 1883.
+1626304535: Opening ipv6 listen socket on port 1883.
+1626304535: mosquitto version 2.0.11 running
+1626304558: New connection from 172.28.0.1:53894 on port 1883.
+1626304558: New client connected from 172.28.0.1:53894 as dev1 (p2, c0, k60).
+1626305179: Client dev1 closed its connection.
+1626305181: New connection from 172.28.0.1:53898 on port 1883.
+1626305181: New client connected from 172.28.0.1:53898 as raspberry (p2, c0, k60).
+1626305393: Client raspberry closed its connection.
+1626305396: New connection from 172.28.0.1:53902 on port 1883.
+1626305396: New client connected from 172.28.0.1:53902 as raspberry (p2, c0, k60).
+1626305546: New connection from 127.0.0.1:50828 on port 1883.
+1626305546: New client connected from 127.0.0.1:50828 as auto-644E668C-4743-FF32-0C98-C1AEF4DDD19E (p2, c1, k60).
+1626305546: Client auto-644E668C-4743-FF32-0C98-C1AEF4DDD19E disconnected.
+1626305609: New connection from 172.28.0.1:53908 on port 1883.
+1626305609: New client connected from 172.28.0.1:53908 as EPS323f0 (p2, c1, k15, u'usuario').
+1626305657: Client EPS323f0 has exceeded timeout, disconnecting.
+1626306336: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1626306668: New connection from 172.28.0.1:53912 on port 1883.
+1626306668: New client connected from 172.28.0.1:53912 as EPS32e490 (p2, c1, k15, u'usuario').
+1626306809: Client EPS32e490 has exceeded timeout, disconnecting.
+1626307207: New connection from 172.28.0.1:53916 on port 1883.
+1626307207: New client connected from 172.28.0.1:53916 as EPS32f3b0 (p2, c1, k15, u'usuario').
+1626307259: Client EPS32f3b0 has exceeded timeout, disconnecting.
+1626307259: New connection from 172.28.0.1:53920 on port 1883.
+1626307259: New client connected from 172.28.0.1:53920 as EPS32ad27 (p2, c1, k15, u'usuario').
+1626307283: Client EPS32ad27 has exceeded timeout, disconnecting.
+1626307423: New connection from 172.28.0.1:53924 on port 1883.
+1626307423: New client connected from 172.28.0.1:53924 as EPS3295a (p2, c1, k15, u'usuario').
+1626307451: Client EPS3295a has exceeded timeout, disconnecting.
+1626307451: New connection from 172.28.0.1:53928 on port 1883.
+1626307451: New client connected from 172.28.0.1:53928 as EPS3214bb (p2, c1, k15, u'usuario').
+1626307475: Client EPS3214bb has exceeded timeout, disconnecting.
+1626307711: Client raspberry closed its connection.
+1626474865: mosquitto version 2.0.11 starting
+1626474865: Config loaded from /mosquitto/config/mosquitto.conf.
+1626474865: Opening ipv4 listen socket on port 1883.
+1626474865: Opening ipv6 listen socket on port 1883.
+1626474865: mosquitto version 2.0.11 running
+1626474874: mosquitto version 2.0.11 terminating
+1626474874: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1626474878: mosquitto version 2.0.11 starting
+1626474878: Config loaded from /mosquitto/config/mosquitto.conf.
+1626474878: Opening ipv4 listen socket on port 1883.
+1626474878: Opening ipv6 listen socket on port 1883.
+1626474878: mosquitto version 2.0.11 running
+1626474890: mosquitto version 2.0.11 terminating
+1626474890: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629487348: mosquitto version 2.0.11 starting
+1629487348: Config loaded from /mosquitto/config/mosquitto.conf.
+1629487348: Opening ipv4 listen socket on port 1883.
+1629487348: Opening ipv6 listen socket on port 1883.
+1629487348: mosquitto version 2.0.11 running
+1629487468: New connection from 172.19.0.1:55998 on port 1883.
+1629487468: New client connected from 172.19.0.1:55998 as raspberry (p2, c0, k60).
+1629487926: Client raspberry closed its connection.
+1629487929: New connection from 172.19.0.1:56002 on port 1883.
+1629487929: New client connected from 172.19.0.1:56002 as raspberry (p2, c0, k60).
+1629489149: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629490950: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629492751: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629500206: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629500206: Client raspberry has exceeded timeout, disconnecting.
+1629500208: New connection from 172.19.0.1:56006 on port 1883.
+1629500208: New client connected from 172.19.0.1:56006 as raspberry (p2, c0, k60).
+1629502007: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629503808: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629505609: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629507410: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629509211: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629511012: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629512813: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629515261: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629515261: Client raspberry has exceeded timeout, disconnecting.
+1629515263: New connection from 172.19.0.1:56010 on port 1883.
+1629515263: New client connected from 172.19.0.1:56010 as raspberry (p2, c0, k60).
+1629549852: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629549852: Client raspberry has exceeded timeout, disconnecting.
+1629549856: New connection from 172.19.0.1:56014 on port 1883.
+1629549856: New client connected from 172.19.0.1:56014 as raspberry (p2, c0, k60).
+1629551697: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629553498: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629555299: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629557100: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629558901: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629560702: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629562503: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629564304: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629572450: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629572450: Client raspberry has exceeded timeout, disconnecting.
+1629572453: New connection from 172.19.0.1:56018 on port 1883.
+1629572453: New client connected from 172.19.0.1:56018 as raspberry (p2, c0, k60).
+1629574250: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629576051: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629577852: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629579653: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629581454: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629582656: Client raspberry closed its connection.
+1629583255: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629585056: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629586857: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629588658: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629590459: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629592260: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629594061: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629595862: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629597663: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629599464: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629601265: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629602719: mosquitto version 2.0.11 terminating
+1629602719: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629671174: mosquitto version 2.0.11 starting
+1629671174: Config loaded from /mosquitto/config/mosquitto.conf.
+1629671174: Opening ipv4 listen socket on port 1883.
+1629671174: Opening ipv6 listen socket on port 1883.
+1629671174: mosquitto version 2.0.11 running
+1629672974: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629674775: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629676576: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629678377: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629679508: New connection from 172.19.0.1:56364 on port 1883.
+1629679508: New client connected from 172.19.0.1:56364 as raspberry (p2, c0, k60).
+1629679621: Client raspberry closed its connection.
+1629679635: New connection from 172.19.0.1:56368 on port 1883.
+1629679635: New client connected from 172.19.0.1:56368 as raspberry (p2, c0, k60).
+1629679807: Client raspberry closed its connection.
+1629679820: New connection from 172.19.0.1:56390 on port 1883.
+1629679820: New client connected from 172.19.0.1:56390 as raspberry (p2, c0, k60).
+1629680160: Client raspberry closed its connection.
+1629680175: New connection from 172.19.0.1:56394 on port 1883.
+1629680175: New client connected from 172.19.0.1:56394 as raspberry (p2, c0, k60).
+1629680178: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629680329: Client raspberry closed its connection.
+1629680333: New connection from 172.19.0.1:56398 on port 1883.
+1629680333: New client connected from 172.19.0.1:56398 as raspberry (p2, c0, k60).
+1629681009: Client raspberry closed its connection.
+1629681171: New connection from 172.19.0.1:56402 on port 1883.
+1629681171: New client connected from 172.19.0.1:56402 as raspberry (p2, c0, k60).
+1629681961: Client raspberry closed its connection.
+1629681979: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629682025: New connection from 172.19.0.1:56416 on port 1883.
+1629682025: New client connected from 172.19.0.1:56416 as raspberry (p2, c0, k60).
+1629682123: Client raspberry closed its connection.
+1629682977: mosquitto version 2.0.11 starting
+1629682977: Config loaded from /mosquitto/config/mosquitto.conf.
+1629682977: Opening ipv4 listen socket on port 1883.
+1629682977: Opening ipv6 listen socket on port 1883.
+1629682977: mosquitto version 2.0.11 running
+1629683066: New connection from 172.19.0.1:42688 on port 1883.
+1629683066: New client connected from 172.19.0.1:42688 as raspberry (p2, c0, k60).
+1629683593: New connection from 172.19.0.1:42692 on port 1883.
+1629683593: New client connected from 172.19.0.1:42692 as rece_arduino (p2, c1, k15).
+1629683612: New connection from 172.19.0.1:42912 on port 1883.
+1629683612: New client connected from 172.19.0.1:42912 as Arduino Client (p2, c1, k15).
+1629683613: Client rece_arduino closed its connection.
+1629683698: Client raspberry closed its connection.
+1629683770: New connection from 172.19.0.1:44884 on port 1883.
+1629683770: Client Arduino Client already connected, closing old connection.
+1629683770: New client connected from 172.19.0.1:44884 as Arduino Client (p2, c1, k15).
+1629683772: New connection from 172.19.0.1:44888 on port 1883.
+1629683772: New client connected from 172.19.0.1:44888 as raspberry (p2, c0, k60).
+1629683904: Client raspberry closed its connection.
+1629684014: Client Arduino Client closed its connection.
+1629684016: New connection from 172.19.0.1:45204 on port 1883.
+1629684016: New client connected from 172.19.0.1:45204 as Arduino Client (p2, c1, k15).
+1629684134: Client Arduino Client has exceeded timeout, disconnecting.
+1629684148: New connection from 172.19.0.1:45208 on port 1883.
+1629684148: New client connected from 172.19.0.1:45208 as Arduino Client (p2, c1, k15).
+1629684272: Client Arduino Client has exceeded timeout, disconnecting.
+1629684325: New connection from 172.19.0.1:45212 on port 1883.
+1629684325: New client connected from 172.19.0.1:45212 as Arduino Client (p2, c1, k15).
+1629684335: New connection from 172.19.0.1:45216 on port 1883.
+1629684335: New client connected from 172.19.0.1:45216 as raspberry (p2, c0, k60).
+1629684362: Client raspberry closed its connection.
+1629684568: Client Arduino Client closed its connection.
+1629684568: New connection from 172.19.0.1:45280 on port 1883.
+1629684568: New client connected from 172.19.0.1:45280 as Arduino Client (p2, c1, k15).
+1629684596: Client Arduino Client has exceeded timeout, disconnecting.
+1629684607: New connection from 172.19.0.1:45284 on port 1883.
+1629684607: New client connected from 172.19.0.1:45284 as Arduino Client (p2, c1, k15).
+1629684777: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629684947: Client Arduino Client closed its connection.
+1629684947: New connection from 172.19.0.1:45288 on port 1883.
+1629684947: New client connected from 172.19.0.1:45288 as Arduino Client (p2, c1, k15).
+1629685531: Client Arduino Client closed its connection.
+1629685607: New connection from 172.19.0.1:45292 on port 1883.
+1629685607: New client connected from 172.19.0.1:45292 as Arduino Client (p2, c1, k15).
+1629685996: Client Arduino Client closed its connection.
+1629686000: New connection from 172.19.0.1:45296 on port 1883.
+1629686000: New client connected from 172.19.0.1:45296 as Arduino Client (p2, c1, k15).
+1629686095: Client Arduino Client closed its connection.
+1629686095: New connection from 172.19.0.1:45300 on port 1883.
+1629686095: New client connected from 172.19.0.1:45300 as Arduino Client (p2, c1, k15).
+1629686439: Client Arduino Client closed its connection.
+1629686439: New connection from 172.19.0.1:45304 on port 1883.
+1629686439: New client connected from 172.19.0.1:45304 as Arduino Client (p2, c1, k15).
+1629686500: Client Arduino Client closed its connection.
+1629686500: New connection from 172.19.0.1:45308 on port 1883.
+1629686500: New client connected from 172.19.0.1:45308 as Arduino Client (p2, c1, k15).
+1629686578: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629686627: Client Arduino Client closed its connection.
+1629686627: New connection from 172.19.0.1:45312 on port 1883.
+1629686627: New client connected from 172.19.0.1:45312 as Arduino Client (p2, c1, k15).
+1629688128: Client Arduino Client closed its connection.
+1629688128: New connection from 172.19.0.1:45316 on port 1883.
+1629688128: New client connected from 172.19.0.1:45316 as Arduino Client (p2, c1, k15).
+1629688172: Client Arduino Client closed its connection.
+1629688173: New connection from 172.19.0.1:45320 on port 1883.
+1629688173: New client connected from 172.19.0.1:45320 as Arduino Client (p2, c1, k15).
+1629688379: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629688393: Client Arduino Client closed its connection.
+1629688393: New connection from 172.19.0.1:45324 on port 1883.
+1629688393: New client connected from 172.19.0.1:45324 as Arduino Client (p2, c1, k15).
+1629688405: New connection from 172.19.0.1:45328 on port 1883.
+1629688405: New client connected from 172.19.0.1:45328 as raspberry (p2, c0, k60).
+1629688699: Client Arduino Client closed its connection.
+1629688699: New connection from 172.19.0.1:46004 on port 1883.
+1629688699: New client connected from 172.19.0.1:46004 as Arduino Client (p2, c1, k15).
+1629688751: Client Arduino Client closed its connection.
+1629688751: New connection from 172.19.0.1:46128 on port 1883.
+1629688751: New client connected from 172.19.0.1:46128 as Arduino Client (p2, c1, k15).
+1629689498: Client Arduino Client closed its connection.
+1629689498: New connection from 172.19.0.1:47884 on port 1883.
+1629689498: New client connected from 172.19.0.1:47884 as Arduino Client (p2, c1, k15).
+1629689561: Client Arduino Client closed its connection.
+1629689561: New connection from 172.19.0.1:48008 on port 1883.
+1629689561: New client connected from 172.19.0.1:48008 as Arduino Client (p2, c1, k15).
+1629689620: Client Arduino Client closed its connection.
+1629689620: New connection from 172.19.0.1:48132 on port 1883.
+1629689620: New client connected from 172.19.0.1:48132 as Arduino Client (p2, c1, k15).
+1629689685: Client Arduino Client closed its connection.
+1629689685: New connection from 172.19.0.1:48280 on port 1883.
+1629689685: New client connected from 172.19.0.1:48280 as Arduino Client (p2, c1, k15).
+1629689725: Client Arduino Client closed its connection.
+1629689725: New connection from 172.19.0.1:48344 on port 1883.
+1629689725: New client connected from 172.19.0.1:48344 as Arduino Client (p2, c1, k15).
+1629689781: Client Arduino Client closed its connection.
+1629689781: New connection from 172.19.0.1:48444 on port 1883.
+1629689781: New client connected from 172.19.0.1:48444 as Arduino Client (p2, c1, k15).
+1629690145: Client Arduino Client closed its connection.
+1629690146: New connection from 172.19.0.1:49288 on port 1883.
+1629690146: New client connected from 172.19.0.1:49288 as Arduino Client (p2, c1, k15).
+1629690180: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629690326: Client Arduino Client has exceeded timeout, disconnecting.
+1629690383: New connection from 172.19.0.1:49676 on port 1883.
+1629690383: New client connected from 172.19.0.1:49676 as Arduino Client (p2, c1, k15).
+1629690566: Client Arduino Client closed its connection.
+1629690567: New connection from 172.19.0.1:50088 on port 1883.
+1629690567: New client connected from 172.19.0.1:50088 as Arduino Client (p2, c1, k15).
+1629690658: Client Arduino Client closed its connection.
+1629690658: New connection from 172.19.0.1:50296 on port 1883.
+1629690658: New client connected from 172.19.0.1:50296 as Arduino Client (p2, c1, k15).
+1629690872: Client Arduino Client has exceeded timeout, disconnecting.
+1629691416: New connection from 172.19.0.1:50768 on port 1883.
+1629691416: New client connected from 172.19.0.1:50768 as Arduino Client (p2, c1, k15).
+1629691416: Client raspberry closed its connection.
+1629691502: Client Arduino Client has exceeded timeout, disconnecting.
+1629691570: New connection from 172.19.0.1:50772 on port 1883.
+1629691570: New client connected from 172.19.0.1:50772 as Arduino Client (p2, c1, k15).
+1629691607: Client Arduino Client closed its connection.
+1629691607: New connection from 172.19.0.1:50776 on port 1883.
+1629691607: New client connected from 172.19.0.1:50776 as Arduino Client (p2, c1, k15).
+1629691812: Client Arduino Client closed its connection.
+1629691813: New connection from 172.19.0.1:50780 on port 1883.
+1629691813: New client connected from 172.19.0.1:50780 as Arduino Client (p2, c1, k15).
+1629691917: Client Arduino Client closed its connection.
+1629691918: New connection from 172.19.0.1:50784 on port 1883.
+1629691918: New client connected from 172.19.0.1:50784 as Arduino Client (p2, c1, k15).
+1629691981: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629692432: Client Arduino Client closed its connection.
+1629692432: New connection from 172.19.0.1:50788 on port 1883.
+1629692432: New client connected from 172.19.0.1:50788 as Arduino Client (p2, c1, k15).
+1629692758: Client Arduino Client closed its connection.
+1629692758: New connection from 172.19.0.1:50792 on port 1883.
+1629692758: New client connected from 172.19.0.1:50792 as Arduino Client (p2, c1, k15).
+1629692875: Client Arduino Client closed its connection.
+1629692875: New connection from 172.19.0.1:50796 on port 1883.
+1629692875: New client connected from 172.19.0.1:50796 as Arduino Client (p2, c1, k15).
+1629693128: Client Arduino Client has exceeded timeout, disconnecting.
+1629693163: New connection from 172.19.0.1:50800 on port 1883.
+1629693163: New client connected from 172.19.0.1:50800 as Arduino Client (p2, c1, k15).
+1629693166: New connection from 172.19.0.1:50804 on port 1883.
+1629693166: New client connected from 172.19.0.1:50804 as raspberry (p2, c0, k60).
+1629693167: Client raspberry closed its connection.
+1629693205: New connection from 172.19.0.1:50808 on port 1883.
+1629693205: New client connected from 172.19.0.1:50808 as raspberry (p2, c0, k60).
+1629693205: Client raspberry closed its connection.
+1629693258: New connection from 172.19.0.1:50812 on port 1883.
+1629693258: New client connected from 172.19.0.1:50812 as raspberry (p2, c0, k60).
+1629693259: Client raspberry closed its connection.
+1629693484: Client Arduino Client closed its connection.
+1629693484: New connection from 172.19.0.1:50816 on port 1883.
+1629693484: New client connected from 172.19.0.1:50816 as Arduino Client (p2, c1, k15).
+1629693489: New connection from 172.19.0.1:50820 on port 1883.
+1629693489: New client connected from 172.19.0.1:50820 as raspberry (p2, c0, k60).
+1629693507: Client raspberry closed its connection.
+1629693782: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629694480: Client Arduino Client closed its connection.
+1629694481: New connection from 172.19.0.1:51028 on port 1883.
+1629694481: New client connected from 172.19.0.1:51028 as Arduino Client (p2, c1, k15).
+1629694674: Client Arduino Client closed its connection.
+1629694693: New connection from 172.19.0.1:51032 on port 1883.
+1629694693: New client connected from 172.19.0.1:51032 as Arduino Client (p2, c1, k15).
+1629694714: New connection from 172.19.0.1:51036 on port 1883.
+1629694714: New client connected from 172.19.0.1:51036 as raspberry (p2, c0, k60).
+1629694756: Client Arduino Client closed its connection.
+1629694756: New connection from 172.19.0.1:51472 on port 1883.
+1629694756: New client connected from 172.19.0.1:51472 as Arduino Client (p2, c1, k15).
+1629694781: Client raspberry closed its connection.
+1629694992: Client Arduino Client closed its connection.
+1629695152: New connection from 172.19.0.1:51766 on port 1883.
+1629695152: New client connected from 172.19.0.1:51766 as Arduino Client (p2, c1, k15).
+1629695583: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629695985: New connection from 172.19.0.1:51770 on port 1883.
+1629695985: Client Arduino Client already connected, closing old connection.
+1629695985: New client connected from 172.19.0.1:51770 as Arduino Client (p2, c1, k15).
+1629696130: Client Arduino Client closed its connection.
+1629696155: New connection from 172.19.0.1:51774 on port 1883.
+1629696155: New client connected from 172.19.0.1:51774 as Arduino Client (p2, c1, k15).
+1629696207: New connection from 172.19.0.1:51778 on port 1883.
+1629696207: New client connected from 172.19.0.1:51778 as raspberry (p2, c0, k60).
+1629696208: Client raspberry closed its connection.
+1629696238: New connection from 172.19.0.1:51782 on port 1883.
+1629696238: New client connected from 172.19.0.1:51782 as raspberry (p2, c0, k60).
+1629696238: Client raspberry closed its connection.
+1629696284: New connection from 172.19.0.1:51786 on port 1883.
+1629696284: New client connected from 172.19.0.1:51786 as raspberry (p2, c0, k60).
+1629696295: Client raspberry closed its connection.
+1629696391: Client Arduino Client closed its connection.
+1629696391: New connection from 172.19.0.1:51922 on port 1883.
+1629696391: New client connected from 172.19.0.1:51922 as Arduino Client (p2, c1, k15).
+1629696398: New connection from 172.19.0.1:51926 on port 1883.
+1629696398: New client connected from 172.19.0.1:51926 as raspberry (p2, c0, k60).
+1629696398: Client raspberry closed its connection.
+1629696516: Client Arduino Client closed its connection.
+1629696576: New connection from 172.19.0.1:51930 on port 1883.
+1629696576: New client connected from 172.19.0.1:51930 as rece_arduino (p2, c1, k15).
+1629696592: Client rece_arduino closed its connection.
+1629696592: New connection from 172.19.0.1:51934 on port 1883.
+1629696592: New client connected from 172.19.0.1:51934 as Arduino Client (p2, c1, k15).
+1629696683: Client Arduino Client closed its connection.
+1629696683: New connection from 172.19.0.1:51938 on port 1883.
+1629696683: New client connected from 172.19.0.1:51938 as Arduino Client (p2, c1, k15).
+1629696688: New connection from 172.19.0.1:51942 on port 1883.
+1629696688: New client connected from 172.19.0.1:51942 as raspberry (p2, c0, k60).
+1629696689: Client raspberry closed its connection.
+1629696744: New connection from 172.19.0.1:51946 on port 1883.
+1629696744: New client connected from 172.19.0.1:51946 as raspberry (p2, c0, k60).
+1629696745: Client raspberry closed its connection.
+1629696748: New connection from 172.19.0.1:51950 on port 1883.
+1629696748: New client connected from 172.19.0.1:51950 as raspberry (p2, c0, k60).
+1629696749: Client raspberry closed its connection.
+1629696752: New connection from 172.19.0.1:51954 on port 1883.
+1629696752: New client connected from 172.19.0.1:51954 as raspberry (p2, c0, k60).
+1629696753: Client raspberry closed its connection.
+1629696756: New connection from 172.19.0.1:51958 on port 1883.
+1629696756: New client connected from 172.19.0.1:51958 as raspberry (p2, c0, k60).
+1629696757: Client raspberry closed its connection.
+1629696828: New connection from 172.19.0.1:51962 on port 1883.
+1629696828: New client connected from 172.19.0.1:51962 as raspberry (p2, c0, k60).
+1629696828: Client raspberry closed its connection.
+1629696833: New connection from 172.19.0.1:51966 on port 1883.
+1629696833: New client connected from 172.19.0.1:51966 as raspberry (p2, c0, k60).
+1629696834: Client raspberry closed its connection.
+1629696875: New connection from 172.19.0.1:51970 on port 1883.
+1629696875: New client connected from 172.19.0.1:51970 as raspberry (p2, c0, k60).
+1629696888: Client raspberry closed its connection.
+1629696898: New connection from 172.19.0.1:52130 on port 1883.
+1629696898: New client connected from 172.19.0.1:52130 as raspberry (p2, c0, k60).
+1629696899: Client raspberry closed its connection.
+1629696985: mosquitto version 2.0.11 terminating
+1629696985: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629697413: mosquitto version 2.0.11 starting
+1629697413: Config loaded from /mosquitto/config/mosquitto.conf.
+1629697413: Opening ipv4 listen socket on port 1883.
+1629697413: Opening ipv6 listen socket on port 1883.
+1629697413: mosquitto version 2.0.11 running
+1629697413: New connection from 172.18.0.1:44666 on port 1883.
+1629697413: New client connected from 172.18.0.1:44666 as Arduino Client (p2, c1, k15).
+1629697554: New connection from 172.18.0.1:44670 on port 1883.
+1629697554: New client connected from 172.18.0.1:44670 as raspberry (p2, c0, k60).
+1629697555: Client raspberry closed its connection.
+1629697676: New connection from 172.18.0.1:44674 on port 1883.
+1629697676: New client connected from 172.18.0.1:44674 as raspberry (p2, c0, k60).
+1629697682: Client raspberry closed its connection.
+1629697716: New connection from 172.18.0.1:44738 on port 1883.
+1629697716: Client Arduino Client already connected, closing old connection.
+1629697716: New client connected from 172.18.0.1:44738 as Arduino Client (p2, c1, k15).
+1629697778: Client Arduino Client has exceeded timeout, disconnecting.
+1629697987: New connection from 172.18.0.1:44742 on port 1883.
+1629697987: New client connected from 172.18.0.1:44742 as Arduino Client (p2, c1, k15).
+1629698001: New connection from 172.18.0.1:44746 on port 1883.
+1629698001: New client connected from 172.18.0.1:44746 as raspberry (p2, c0, k60).
+1629698078: Client raspberry closed its connection.
+1629698078: Client Arduino Client closed its connection.
+1629698079: New connection from 172.18.0.1:45580 on port 1883.
+1629698079: New client connected from 172.18.0.1:45580 as Arduino Client (p2, c1, k15).
+1629698108: Client Arduino Client has exceeded timeout, disconnecting.
+1629698237: New connection from 172.18.0.1:45584 on port 1883.
+1629698237: New client connected from 172.18.0.1:45584 as Arduino Client (p2, c1, k15).
+1629698259: Client Arduino Client closed its connection.
+1629698259: New connection from 172.18.0.1:45588 on port 1883.
+1629698259: New client connected from 172.18.0.1:45588 as Arduino Client (p2, c1, k15).
+1629698318: Client Arduino Client has exceeded timeout, disconnecting.
+1629698444: New connection from 172.18.0.1:45614 on port 1883.
+1629698444: New client connected from 172.18.0.1:45614 as raspberry (p2, c0, k60).
+1629698567: New connection from 172.18.0.1:45618 on port 1883.
+1629698567: New client connected from 172.18.0.1:45618 as Arduino Client (p2, c1, k15).
+1629698580: Client Arduino Client closed its connection.
+1629698581: New connection from 172.18.0.1:45670 on port 1883.
+1629698581: New client connected from 172.18.0.1:45670 as Arduino Client (p2, c1, k15).
+1629698690: Client Arduino Client has exceeded timeout, disconnecting.
+1629698949: New connection from 172.18.0.1:46658 on port 1883.
+1629698949: New client connected from 172.18.0.1:46658 as Arduino Client (p2, c1, k15).
+1629699037: Client raspberry closed its connection.
+1629699162: mosquitto version 2.0.11 terminating
+1629699162: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629699197: mosquitto version 2.0.11 starting
+1629699197: Config loaded from /mosquitto/config/mosquitto.conf.
+1629699197: Opening ipv4 listen socket on port 1883.
+1629699197: Opening ipv6 listen socket on port 1883.
+1629699197: mosquitto version 2.0.11 running
+1629699198: New connection from 172.19.0.1:55338 on port 1883.
+1629699198: New client connected from 172.19.0.1:55338 as Arduino Client (p2, c1, k15).
+1629699336: New connection from 172.19.0.1:55370 on port 1883.
+1629699336: Client Arduino Client already connected, closing old connection.
+1629699336: New client connected from 172.19.0.1:55370 as Arduino Client (p2, c1, k15).
+1629699388: Client Arduino Client has exceeded timeout, disconnecting.
+1629699522: New connection from 172.19.0.1:55374 on port 1883.
+1629699522: New client connected from 172.19.0.1:55374 as raspberry (p2, c0, k60).
+1629699559: New connection from 172.19.0.1:55378 on port 1883.
+1629699559: New client connected from 172.19.0.1:55378 as Arduino Client (p2, c1, k15).
+1629699952: Client raspberry closed its connection.
+1629700997: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629702798: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629704599: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629705909: Client Arduino Client closed its connection.
+1629705925: New connection from 172.19.0.1:60128 on port 1883.
+1629705925: New client connected from 172.19.0.1:60128 as Arduino Client (p2, c1, k15).
+1629705997: Client Arduino Client closed its connection.
+1629705998: New connection from 172.19.0.1:60132 on port 1883.
+1629705998: New client connected from 172.19.0.1:60132 as Arduino Client (p2, c1, k15).
+1629706030: New connection from 172.19.0.1:60136 on port 1883.
+1629706030: Client Arduino Client already connected, closing old connection.
+1629706030: New client connected from 172.19.0.1:60136 as Arduino Client (p2, c1, k15).
+1629706081: Client Arduino Client closed its connection.
+1629706081: New connection from 172.19.0.1:60140 on port 1883.
+1629706081: New client connected from 172.19.0.1:60140 as Arduino Client (p2, c1, k15).
+1629706391: Client Arduino Client closed its connection.
+1629706400: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629706501: New connection from 172.19.0.1:60144 on port 1883.
+1629706501: New client connected from 172.19.0.1:60144 as Arduino Client (p2, c1, k15).
+1629706538: Client Arduino Client closed its connection.
+1629706538: New connection from 172.19.0.1:60148 on port 1883.
+1629706538: New client connected from 172.19.0.1:60148 as Arduino Client (p2, c1, k15).
+1629706556: Client Arduino Client closed its connection.
+1629706556: New connection from 172.19.0.1:60152 on port 1883.
+1629706556: New client connected from 172.19.0.1:60152 as Arduino Client (p2, c1, k15).
+1629706869: Client Arduino Client closed its connection.
+1629706874: New connection from 172.19.0.1:60156 on port 1883.
+1629706874: New client connected from 172.19.0.1:60156 as Arduino Client (p2, c1, k15).
+1629706990: Client Arduino Client has exceeded timeout, disconnecting.
+1629706991: New connection from 172.19.0.1:60160 on port 1883.
+1629706991: New client connected from 172.19.0.1:60160 as Arduino Client (p2, c1, k15).
+1629707044: Client Arduino Client has exceeded timeout, disconnecting.
+1629707057: New connection from 172.19.0.1:60164 on port 1883.
+1629707057: New client connected from 172.19.0.1:60164 as Arduino Client (p2, c1, k15).
+1629707098: Client Arduino Client closed its connection.
+1629707098: New connection from 172.19.0.1:60168 on port 1883.
+1629707098: New client connected from 172.19.0.1:60168 as Arduino Client (p2, c1, k15).
+1629707633: Client Arduino Client closed its connection.
+1629707692: New connection from 172.19.0.1:60172 on port 1883.
+1629707692: New client connected from 172.19.0.1:60172 as Arduino Client (p2, c1, k15).
+1629707721: Client Arduino Client closed its connection.
+1629707721: New connection from 172.19.0.1:60176 on port 1883.
+1629707721: New client connected from 172.19.0.1:60176 as Arduino Client (p2, c1, k15).
+1629707895: Client Arduino Client closed its connection.
+1629707895: New connection from 172.19.0.1:60180 on port 1883.
+1629707895: New client connected from 172.19.0.1:60180 as Arduino Client (p2, c1, k15).
+1629708174: Client Arduino Client closed its connection.
+1629708175: New connection from 172.19.0.1:60184 on port 1883.
+1629708175: New client connected from 172.19.0.1:60184 as Arduino Client (p2, c1, k15).
+1629708201: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629708515: Client Arduino Client closed its connection.
+1629708516: New connection from 172.19.0.1:60188 on port 1883.
+1629708516: New client connected from 172.19.0.1:60188 as Arduino Client (p2, c1, k15).
+1629708533: Client Arduino Client closed its connection.
+1629708533: New connection from 172.19.0.1:60192 on port 1883.
+1629708533: New client connected from 172.19.0.1:60192 as Arduino Client (p2, c1, k15).
+1629708538: Client Arduino Client closed its connection.
+1629708538: New connection from 172.19.0.1:60196 on port 1883.
+1629708538: New client connected from 172.19.0.1:60196 as Arduino Client (p2, c1, k15).
+1629710002: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629710421: Client Arduino Client closed its connection.
+1629710421: New connection from 172.19.0.1:60212 on port 1883.
+1629710421: New client connected from 172.19.0.1:60212 as Arduino Client (p2, c1, k15).
+1629710561: Client Arduino Client closed its connection.
+1629710561: New connection from 172.19.0.1:60216 on port 1883.
+1629710561: New client connected from 172.19.0.1:60216 as Arduino Client (p2, c1, k15).
+1629710576: mosquitto version 2.0.11 terminating
+1629710576: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629710654: mosquitto version 2.0.11 starting
+1629710654: Config loaded from /mosquitto/config/mosquitto.conf.
+1629710654: Opening ipv4 listen socket on port 1883.
+1629710654: Opening ipv6 listen socket on port 1883.
+1629710654: mosquitto version 2.0.11 running
+1629710655: New connection from 172.20.0.1:51646 on port 1883.
+1629710655: New client connected from 172.20.0.1:51646 as Arduino Client (p2, c1, k15).
+1629710844: New connection from 172.20.0.1:51788 on port 1883.
+1629710844: Client Arduino Client already connected, closing old connection.
+1629710844: New client connected from 172.20.0.1:51788 as Arduino Client (p2, c1, k15).
+1629710877: New connection from 172.20.0.1:51792 on port 1883.
+1629710877: New client connected from 172.20.0.1:51792 as raspberry (p2, c0, k60).
+1629710879: Client raspberry closed its connection.
+1629710941: Client Arduino Client closed its connection.
+1629710941: New connection from 172.20.0.1:51796 on port 1883.
+1629710941: New client connected from 172.20.0.1:51796 as Arduino Client (p2, c1, k15).
+1629710955: New connection from 172.20.0.1:51800 on port 1883.
+1629710955: New client connected from 172.20.0.1:51800 as raspberry (p2, c0, k60).
+1629710957: Client raspberry closed its connection.
+1629711045: Client Arduino Client closed its connection.
+1629711045: New connection from 172.20.0.1:51804 on port 1883.
+1629711045: New client connected from 172.20.0.1:51804 as Arduino Client (p2, c1, k15).
+1629711059: New connection from 172.20.0.1:51808 on port 1883.
+1629711059: New client connected from 172.20.0.1:51808 as raspberry (p2, c0, k60).
+1629711059: Client raspberry closed its connection.
+1629711117: Client Arduino Client closed its connection.
+1629711117: New connection from 172.20.0.1:51812 on port 1883.
+1629711117: New client connected from 172.20.0.1:51812 as Arduino Client (p2, c1, k15).
+1629711177: New connection from 172.20.0.1:51816 on port 1883.
+1629711177: New client connected from 172.20.0.1:51816 as raspberry (p2, c0, k60).
+1629711178: Client raspberry closed its connection.
+1629711287: New connection from 172.20.0.1:51820 on port 1883.
+1629711287: New client connected from 172.20.0.1:51820 as raspberry (p2, c0, k60).
+1629711287: Client raspberry closed its connection.
+1629711337: Client Arduino Client closed its connection.
+1629711337: New connection from 172.20.0.1:51824 on port 1883.
+1629711337: New client connected from 172.20.0.1:51824 as Arduino Client (p2, c1, k15).
+1629711339: New connection from 172.20.0.1:51828 on port 1883.
+1629711339: New client connected from 172.20.0.1:51828 as raspberry (p2, c0, k60).
+1629711370: Client raspberry closed its connection.
+1629712454: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629713832: Client Arduino Client closed its connection.
+1629751634: mosquitto version 2.0.11 starting
+1629751634: Config loaded from /mosquitto/config/mosquitto.conf.
+1629751634: Opening ipv4 listen socket on port 1883.
+1629751634: Opening ipv6 listen socket on port 1883.
+1629751634: mosquitto version 2.0.11 running
+1629751635: New connection from 172.20.0.1:52238 on port 1883.
+1629751635: New client connected from 172.20.0.1:52238 as Arduino Client (p2, c1, k15).
+1629751677: New connection from 172.20.0.1:52242 on port 1883.
+1629751677: Client Arduino Client already connected, closing old connection.
+1629751677: New client connected from 172.20.0.1:52242 as Arduino Client (p2, c1, k15).
+1629751735: Client Arduino Client closed its connection.
+1629751735: New connection from 172.20.0.1:52246 on port 1883.
+1629751735: New client connected from 172.20.0.1:52246 as Arduino Client (p2, c1, k15).
+1629752211: Client Arduino Client closed its connection.
+1629752211: New connection from 172.20.0.1:52250 on port 1883.
+1629752211: New client connected from 172.20.0.1:52250 as Arduino Client (p2, c1, k15).
+1629752447: New connection from 172.20.0.1:52254 on port 1883.
+1629752447: New client connected from 172.20.0.1:52254 as raspberry (p2, c0, k60).
+1629752464: Client raspberry closed its connection.
+1629752499: Client Arduino Client closed its connection.
+1629752499: New connection from 172.20.0.1:52418 on port 1883.
+1629752499: New client connected from 172.20.0.1:52418 as Arduino Client (p2, c1, k15).
+1629752502: New connection from 172.20.0.1:52422 on port 1883.
+1629752503: New client connected from 172.20.0.1:52422 as raspberry (p2, c0, k60).
+1629752568: Client raspberry closed its connection.
+1629752675: Client Arduino Client closed its connection.
+1629752676: New connection from 172.20.0.1:53076 on port 1883.
+1629752676: New client connected from 172.20.0.1:53076 as Arduino Client (p2, c1, k15).
+1629752681: New connection from 172.20.0.1:53080 on port 1883.
+1629752681: New client connected from 172.20.0.1:53080 as raspberry (p2, c0, k60).
+1629752695: Client raspberry closed its connection.
+1629752835: Client Arduino Client closed its connection.
+1629752836: New connection from 172.20.0.1:53214 on port 1883.
+1629752836: New client connected from 172.20.0.1:53214 as Arduino Client (p2, c1, k15).
+1629752875: Client Arduino Client closed its connection.
+1629752876: New connection from 172.20.0.1:53218 on port 1883.
+1629752876: New client connected from 172.20.0.1:53218 as Arduino Client (p2, c1, k15).
+1629752958: New connection from 172.20.0.1:53222 on port 1883.
+1629752958: Client Arduino Client already connected, closing old connection.
+1629752958: New client connected from 172.20.0.1:53222 as Arduino Client (p2, c1, k15).
+1629752995: Client Arduino Client has exceeded timeout, disconnecting.
+1629753004: New connection from 172.20.0.1:53226 on port 1883.
+1629753004: New client connected from 172.20.0.1:53226 as Arduino Client (p2, c1, k15).
+1629753029: Client Arduino Client closed its connection.
+1629753031: New connection from 172.20.0.1:53230 on port 1883.
+1629753031: New client connected from 172.20.0.1:53230 as Arduino Client (p2, c1, k15).
+1629753075: Client Arduino Client closed its connection.
+1629753076: New connection from 172.20.0.1:53234 on port 1883.
+1629753076: New client connected from 172.20.0.1:53234 as Arduino Client (p2, c1, k15).
+1629753110: Client Arduino Client closed its connection.
+1629753119: New connection from 172.20.0.1:53238 on port 1883.
+1629753119: New client connected from 172.20.0.1:53238 as Arduino Client (p2, c1, k15).
+1629753148: Client Arduino Client closed its connection.
+1629753151: New connection from 172.20.0.1:53242 on port 1883.
+1629753151: New client connected from 172.20.0.1:53242 as Arduino Client (p2, c1, k15).
+1629753195: Client Arduino Client closed its connection.
+1629753197: New connection from 172.20.0.1:53246 on port 1883.
+1629753197: New client connected from 172.20.0.1:53246 as Arduino Client (p2, c1, k15).
+1629753236: Client Arduino Client closed its connection.
+1629753237: New connection from 172.20.0.1:53250 on port 1883.
+1629753237: New client connected from 172.20.0.1:53250 as Arduino Client (p2, c1, k15).
+1629753258: Client Arduino Client closed its connection.
+1629753259: New connection from 172.20.0.1:53254 on port 1883.
+1629753259: New client connected from 172.20.0.1:53254 as Arduino Client (p2, c1, k15).
+1629753298: Client Arduino Client closed its connection.
+1629753299: New connection from 172.20.0.1:53258 on port 1883.
+1629753299: New client connected from 172.20.0.1:53258 as Arduino Client (p2, c1, k15).
+1629753334: Client Arduino Client closed its connection.
+1629753335: New connection from 172.20.0.1:53262 on port 1883.
+1629753335: New client connected from 172.20.0.1:53262 as Arduino Client (p2, c1, k15).
+1629753371: Client Arduino Client closed its connection.
+1629753372: New connection from 172.20.0.1:53266 on port 1883.
+1629753372: New client connected from 172.20.0.1:53266 as Arduino Client (p2, c1, k15).
+1629753395: Client Arduino Client closed its connection.
+1629753395: New connection from 172.20.0.1:53270 on port 1883.
+1629753395: New client connected from 172.20.0.1:53270 as Arduino Client (p2, c1, k15).
+1629753417: Client Arduino Client closed its connection.
+1629753418: New connection from 172.20.0.1:53274 on port 1883.
+1629753418: New client connected from 172.20.0.1:53274 as Arduino Client (p2, c1, k15).
+1629753434: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629753462: Client Arduino Client closed its connection.
+1629753466: New connection from 172.20.0.1:53278 on port 1883.
+1629753466: New client connected from 172.20.0.1:53278 as Arduino Client (p2, c1, k15).
+1629753487: Client Arduino Client closed its connection.
+1629753488: New connection from 172.20.0.1:53282 on port 1883.
+1629753488: New client connected from 172.20.0.1:53282 as Arduino Client (p2, c1, k15).
+1629753513: Client Arduino Client closed its connection.
+1629753514: New connection from 172.20.0.1:53286 on port 1883.
+1629753514: New client connected from 172.20.0.1:53286 as Arduino Client (p2, c1, k15).
+1629753542: Client Arduino Client closed its connection.
+1629753544: New connection from 172.20.0.1:53290 on port 1883.
+1629753544: New client connected from 172.20.0.1:53290 as Arduino Client (p2, c1, k15).
+1629753568: Client Arduino Client closed its connection.
+1629753570: New connection from 172.20.0.1:53294 on port 1883.
+1629753570: New client connected from 172.20.0.1:53294 as rece_arduino (p2, c1, k15).
+1629753590: Client rece_arduino closed its connection.
+1629753592: New connection from 172.20.0.1:53298 on port 1883.
+1629753592: New client connected from 172.20.0.1:53298 as Arduino Client (p2, c1, k15).
+1629753612: Client Arduino Client closed its connection.
+1629753613: New connection from 172.20.0.1:53302 on port 1883.
+1629753613: New client connected from 172.20.0.1:53302 as Arduino Client (p2, c1, k15).
+1629753633: Client Arduino Client closed its connection.
+1629753634: New connection from 172.20.0.1:53306 on port 1883.
+1629753634: New client connected from 172.20.0.1:53306 as Arduino Client (p2, c1, k15).
+1629753681: Client Arduino Client closed its connection.
+1629753685: New connection from 172.20.0.1:53310 on port 1883.
+1629753685: New client connected from 172.20.0.1:53310 as rece_arduino (p2, c1, k15).
+1629753719: Client rece_arduino closed its connection.
+1629753723: New connection from 172.20.0.1:53314 on port 1883.
+1629753723: New client connected from 172.20.0.1:53314 as rece_arduino (p2, c1, k15).
+1629753752: Client rece_arduino closed its connection.
+1629753753: New connection from 172.20.0.1:53318 on port 1883.
+1629753753: New client connected from 172.20.0.1:53318 as Arduino Client (p2, c1, k15).
+1629753784: Client Arduino Client closed its connection.
+1629753786: New connection from 172.20.0.1:53322 on port 1883.
+1629753786: New client connected from 172.20.0.1:53322 as Arduino Client (p2, c1, k15).
+1629753815: Client Arduino Client closed its connection.
+1629753823: New connection from 172.20.0.1:53326 on port 1883.
+1629753823: New client connected from 172.20.0.1:53326 as Arduino Client (p2, c1, k15).
+1629753858: Client Arduino Client closed its connection.
+1629753859: New connection from 172.20.0.1:53330 on port 1883.
+1629753859: New client connected from 172.20.0.1:53330 as rece_arduino (p2, c1, k15).
+1629753888: Client rece_arduino closed its connection.
+1629753891: New connection from 172.20.0.1:53334 on port 1883.
+1629753891: New client connected from 172.20.0.1:53334 as Arduino Client (p2, c1, k15).
+1629753921: Client Arduino Client closed its connection.
+1629753922: New connection from 172.20.0.1:53338 on port 1883.
+1629753922: New client connected from 172.20.0.1:53338 as Arduino Client (p2, c1, k15).
+1629753944: Client Arduino Client closed its connection.
+1629753945: New connection from 172.20.0.1:53342 on port 1883.
+1629753945: New client connected from 172.20.0.1:53342 as Arduino Client (p2, c1, k15).
+1629753964: Client Arduino Client closed its connection.
+1629753964: New connection from 172.20.0.1:53346 on port 1883.
+1629753964: New client connected from 172.20.0.1:53346 as Arduino Client (p2, c1, k15).
+1629753996: Client Arduino Client closed its connection.
+1629754004: New connection from 172.20.0.1:53350 on port 1883.
+1629754004: New client connected from 172.20.0.1:53350 as Arduino Client (p2, c1, k15).
+1629754060: Client Arduino Client closed its connection.
+1629754064: New connection from 172.20.0.1:53354 on port 1883.
+1629754064: New client connected from 172.20.0.1:53354 as Arduino Client (p2, c1, k15).
+1629754099: Client Arduino Client closed its connection.
+1629754101: New connection from 172.20.0.1:53358 on port 1883.
+1629754101: New client connected from 172.20.0.1:53358 as Arduino Client (p2, c1, k15).
+1629754136: Client Arduino Client closed its connection.
+1629754137: New connection from 172.20.0.1:53362 on port 1883.
+1629754137: New client connected from 172.20.0.1:53362 as rece_arduino (p2, c1, k15).
+1629754163: Client rece_arduino closed its connection.
+1629754165: New connection from 172.20.0.1:53366 on port 1883.
+1629754165: New client connected from 172.20.0.1:53366 as Arduino Client (p2, c1, k15).
+1629754185: Client Arduino Client closed its connection.
+1629754185: New connection from 172.20.0.1:53370 on port 1883.
+1629754185: New client connected from 172.20.0.1:53370 as Arduino Client (p2, c1, k15).
+1629754237: Client Arduino Client closed its connection.
+1629754238: New connection from 172.20.0.1:53374 on port 1883.
+1629754238: New client connected from 172.20.0.1:53374 as Arduino Client (p2, c1, k15).
+1629754258: Client Arduino Client closed its connection.
+1629754258: New connection from 172.20.0.1:53378 on port 1883.
+1629754258: New client connected from 172.20.0.1:53378 as Arduino Client (p2, c1, k15).
+1629754297: Client Arduino Client closed its connection.
+1629754298: New connection from 172.20.0.1:53382 on port 1883.
+1629754298: New client connected from 172.20.0.1:53382 as Arduino Client (p2, c1, k15).
+1629754320: Client Arduino Client closed its connection.
+1629754354: New connection from 172.20.0.1:53386 on port 1883.
+1629754354: New client connected from 172.20.0.1:53386 as rece_arduino (p2, c1, k15).
+1629754401: Client rece_arduino closed its connection.
+1629754402: New connection from 172.20.0.1:53390 on port 1883.
+1629754402: New client connected from 172.20.0.1:53390 as Arduino Client (p2, c1, k15).
+1629754425: Client Arduino Client closed its connection.
+1629754426: New connection from 172.20.0.1:53394 on port 1883.
+1629754426: New client connected from 172.20.0.1:53394 as Arduino Client (p2, c1, k15).
+1629754447: Client Arduino Client closed its connection.
+1629754448: New connection from 172.20.0.1:53398 on port 1883.
+1629754448: New client connected from 172.20.0.1:53398 as Arduino Client (p2, c1, k15).
+1629754472: Client Arduino Client closed its connection.
+1629754472: New connection from 172.20.0.1:53402 on port 1883.
+1629754472: New client connected from 172.20.0.1:53402 as Arduino Client (p2, c1, k15).
+1629754515: Client Arduino Client closed its connection.
+1629754515: New connection from 172.20.0.1:53406 on port 1883.
+1629754515: New client connected from 172.20.0.1:53406 as Arduino Client (p2, c1, k15).
+1629754562: Client Arduino Client closed its connection.
+1629754563: New connection from 172.20.0.1:53410 on port 1883.
+1629754563: New client connected from 172.20.0.1:53410 as Arduino Client (p2, c1, k15).
+1629754614: Client Arduino Client closed its connection.
+1629754615: New connection from 172.20.0.1:53414 on port 1883.
+1629754615: New client connected from 172.20.0.1:53414 as Arduino Client (p2, c1, k15).
+1629754656: Client Arduino Client closed its connection.
+1629754657: New connection from 172.20.0.1:53418 on port 1883.
+1629754657: New client connected from 172.20.0.1:53418 as Arduino Client (p2, c1, k15).
+1629754677: Client Arduino Client closed its connection.
+1629754678: New connection from 172.20.0.1:53422 on port 1883.
+1629754678: New client connected from 172.20.0.1:53422 as Arduino Client (p2, c1, k15).
+1629754711: Client Arduino Client closed its connection.
+1629754745: New connection from 172.20.0.1:53426 on port 1883.
+1629754745: New client connected from 172.20.0.1:53426 as rece_arduino (p2, c1, k15).
+1629754776: Client rece_arduino closed its connection.
+1629754779: New connection from 172.20.0.1:53430 on port 1883.
+1629754779: New client connected from 172.20.0.1:53430 as Arduino Client (p2, c1, k15).
+1629754806: Client Arduino Client closed its connection.
+1629754810: New connection from 172.20.0.1:53434 on port 1883.
+1629754810: New client connected from 172.20.0.1:53434 as Arduino Client (p2, c1, k15).
+1629754836: Client Arduino Client closed its connection.
+1629754871: New connection from 172.20.0.1:53438 on port 1883.
+1629754871: New client connected from 172.20.0.1:53438 as rece_arduino (p2, c1, k15).
+1629754900: Client rece_arduino closed its connection.
+1629754923: New connection from 172.20.0.1:53442 on port 1883.
+1629754923: New client connected from 172.20.0.1:53442 as rece_arduino (p2, c1, k15).
+1629754959: Client rece_arduino closed its connection.
+1629754959: New connection from 172.20.0.1:53446 on port 1883.
+1629754959: New client connected from 172.20.0.1:53446 as Arduino Client (p2, c1, k15).
+1629754980: Client Arduino Client closed its connection.
+1629754981: New connection from 172.20.0.1:53450 on port 1883.
+1629754981: New client connected from 172.20.0.1:53450 as Arduino Client (p2, c1, k15).
+1629755023: Client Arduino Client closed its connection.
+1629755025: New connection from 172.20.0.1:53454 on port 1883.
+1629755025: New client connected from 172.20.0.1:53454 as Arduino Client (p2, c1, k15).
+1629755045: Client Arduino Client closed its connection.
+1629755046: New connection from 172.20.0.1:53458 on port 1883.
+1629755046: New client connected from 172.20.0.1:53458 as Arduino Client (p2, c1, k15).
+1629755072: Client Arduino Client closed its connection.
+1629755073: New connection from 172.20.0.1:53462 on port 1883.
+1629755073: New client connected from 172.20.0.1:53462 as Arduino Client (p2, c1, k15).
+1629755094: Client Arduino Client closed its connection.
+1629755102: New connection from 172.20.0.1:53466 on port 1883.
+1629755102: New client connected from 172.20.0.1:53466 as Arduino Client (p2, c1, k15).
+1629755131: Client Arduino Client closed its connection.
+1629755132: New connection from 172.20.0.1:53470 on port 1883.
+1629755132: New client connected from 172.20.0.1:53470 as Arduino Client (p2, c1, k15).
+1629755158: Client Arduino Client closed its connection.
+1629755159: New connection from 172.20.0.1:53474 on port 1883.
+1629755159: New client connected from 172.20.0.1:53474 as Arduino Client (p2, c1, k15).
+1629755208: Client Arduino Client closed its connection.
+1629755211: New connection from 172.20.0.1:53478 on port 1883.
+1629755211: New client connected from 172.20.0.1:53478 as Arduino Client (p2, c1, k15).
+1629755235: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629755239: Client Arduino Client closed its connection.
+1629755243: New connection from 172.20.0.1:53482 on port 1883.
+1629755243: New client connected from 172.20.0.1:53482 as Arduino Client (p2, c1, k15).
+1629755268: Client Arduino Client closed its connection.
+1629755268: New connection from 172.20.0.1:53486 on port 1883.
+1629755268: New client connected from 172.20.0.1:53486 as Arduino Client (p2, c1, k15).
+1629755278: Client Arduino Client closed its connection.
+1629755278: New connection from 172.20.0.1:53490 on port 1883.
+1629755278: New client connected from 172.20.0.1:53490 as Arduino Client (p2, c1, k15).
+1629755318: Client Arduino Client closed its connection.
+1629755318: New connection from 172.20.0.1:53494 on port 1883.
+1629755318: New client connected from 172.20.0.1:53494 as Arduino Client (p2, c1, k15).
+1629756547: Client Arduino Client closed its connection.
+1629756563: New connection from 172.20.0.1:53498 on port 1883.
+1629756563: New client connected from 172.20.0.1:53498 as Arduino Client (p2, c1, k15).
+1629756643: Client Arduino Client has exceeded timeout, disconnecting.
+1629757036: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629758837: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629760020: mosquitto version 2.0.11 terminating
+1629760020: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629760082: mosquitto version 2.0.11 starting
+1629760082: Config loaded from /mosquitto/config/mosquitto.conf.
+1629760082: Opening ipv4 listen socket on port 1883.
+1629760082: Opening ipv6 listen socket on port 1883.
+1629760082: mosquitto version 2.0.11 running
+1629760115: mosquitto version 2.0.11 terminating
+1629760115: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629760177: mosquitto version 2.0.11 starting
+1629760177: Config loaded from /mosquitto/config/mosquitto.conf.
+1629760177: Opening ipv4 listen socket on port 1883.
+1629760177: Opening ipv6 listen socket on port 1883.
+1629760177: mosquitto version 2.0.11 running
+1629760270: New connection from 172.19.0.1:33884 on port 1883.
+1629760270: New client connected from 172.19.0.1:33884 as Arduino Client (p2, c1, k15).
+1629760281: New connection from 172.19.0.1:33888 on port 1883.
+1629760281: New client connected from 172.19.0.1:33888 as raspberry (p2, c0, k60).
+1629760312: Client raspberry closed its connection.
+1629760507: New connection from 172.19.0.1:34206 on port 1883.
+1629760507: New client connected from 172.19.0.1:34206 as raspberry (p2, c0, k60).
+1629760575: Client raspberry closed its connection.
+1629761977: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629763778: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629764614: Client Arduino Client closed its connection.
+1629767213: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1629774147: Saving in-memory database to /mosquitto/data//mosquitto.db.
